@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Pendaftaran Pembekalan Mahasiswa",
+  "description": "Aplikasi pendaftaran pembekalan mahasiswa dengan fitur dashboard mahasiswa dan admin, manajemen kegiatan, input nilai, dan sertifikat otomatis.",
+  "requestFramePermissions": []
+}
